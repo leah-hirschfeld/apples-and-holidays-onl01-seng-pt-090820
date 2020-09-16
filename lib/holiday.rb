@@ -63,7 +63,7 @@ def all_supplies_in_holidays(holiday_hash)
       
 end  
 end
-  return all_supplies_string
+  puts all_supplies_string
 end
 
 
